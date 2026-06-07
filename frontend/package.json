@@ -2,7 +2,7 @@
   "name": "yunnan-travel-v4",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "nuxt build && nuxt generate",
     "dev": "nuxt dev"
   },
   "dependencies": {
