@@ -1,9 +1,0 @@
-{
-  "name": "frontend-pages",
-  "scripts": {
-    "build": "nuxt build"
-  },
-  "dependencies": {
-    "nuxt": "3"
-  }
-}
