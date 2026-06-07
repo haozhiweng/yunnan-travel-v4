@@ -1,16 +1,6 @@
-frontend
-├── pages
-│   ├── index.vue
-│   ├── ai.vue
-│   └── share
-│       └── _id.vue
-├── assets
-│   └── css
-│       └── main.css
-├── components
-│   ├── Header.vue
-│   ├── Banner.vue
-│   ├── ScenicCard.vue
-│   └── Footer.vue
-├── nuxt.config.ts
-└── package.json
+<template>
+  <div>
+    <h1>云南旅游 V4.0</h1>
+    <p>欢迎来到云南旅游智能平台</p>
+  </div>
+</template>
